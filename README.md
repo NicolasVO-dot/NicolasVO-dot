@@ -15,20 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Github stats :bar_chart:</h2>
+###
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasVO-dot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasVO-dot&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+---
+###
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NicolasVO-dot}/count.svg" alt="NicolasVO-dot :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVO-dot&langs_count=10&theme=tokyonight&layout=compact" alt="NicolasVO-dot :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NicolasVO-dot&show_icons=true&theme=synthwave" alt="NicolasVO-dot :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-----
