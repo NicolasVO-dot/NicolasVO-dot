@@ -37,3 +37,11 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NicolasVO-dot&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NicolasVO-dot/NicolasVO-dot/JoseleSnake.svg" alt="Snake animation" />
+
+###
+
