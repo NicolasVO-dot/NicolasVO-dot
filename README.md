@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NicolasVO-dot/NicolasVO-dot/JoseleSnake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NicolasVO-dot/NicolasVO-dot/snake.svg" alt="Snake animation" />
 
 ###
 
