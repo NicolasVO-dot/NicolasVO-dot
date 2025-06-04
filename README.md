@@ -39,6 +39,17 @@ Here are some ideas to get you started:
 ###
 
 <div align="Center">
+<h1>Languages</h1>
+
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+
+</div>
+
+###
+
+###
+
+<div align="Center">
 <h1>Operating Systems</h1>
 
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
