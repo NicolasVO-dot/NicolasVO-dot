@@ -34,6 +34,17 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
 </div>
 
+###
+
+###
+
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
+
+</div>
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NicolasVO-dot&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
