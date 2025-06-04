@@ -22,5 +22,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasVO-dot&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NicolasVO-dot&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
