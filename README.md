@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 <div align="Center">
 <h1>🏆GitHub Trophies</h1>
+  
 ![](https://github-profile-trophy.vercel.app/?username=NicolasVO-dot&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ###
